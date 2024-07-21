@@ -1,0 +1,233 @@
+[
+    {
+        "id":"1",
+        "nombre":"Sergio Romero",
+        "posicion":"Arquero",
+        "edad":"37",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"2",
+        "nombre":"Javier Garcia",
+        "posicion":"Arquero",
+        "edad":"37",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"3",
+        "nombre":"Leandro Brey",
+        "posicion":"Arquero",
+        "edad":"21",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"3",
+        "nombre":"Leandro Brey",
+        "posicion":"Arquero",
+        "edad":"21",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"4",
+        "nombre":"Gary Medel",
+        "posicion":"Defensa",
+        "edad":"36",
+        "nacionalidad":"Chileno"
+    },
+    {
+        "id":"5",
+        "nombre":"Marcos Rojo",
+        "posicion":"Defensa",
+        "edad":"34",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"6",
+        "nombre":"Cristian Lema",
+        "posicion":"Defensa",
+        "edad":"34",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"7",
+        "nombre":"Luis Advincula",
+        "posicion":"Defensa",
+        "edad":"34",
+        "nacionalidad":"Peruano"
+    },
+    {
+        "id":"8",
+        "nombre":"Jorge Figal",
+        "posicion":"Defensa",
+        "edad":"30",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"9",
+        "nombre":"Marcelo Blondel",
+        "posicion":"Defensa",
+        "edad":"27",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"10",
+        "nombre":"Lautaro Blanco",
+        "posicion":"Defensa",
+        "edad":"25",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"11",
+        "nombre":"Lautaro Di Lollo",
+        "posicion":"Defensa",
+        "edad":"20",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"12",
+        "nombre":"Aaron Anselmino",
+        "posicion":"Defensa",
+        "edad":"19",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"13",
+        "nombre":"Juan Ramirez",
+        "posicion":"MedioCampo",
+        "edad":"30",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"14",
+        "nombre":"Guillermo Fernandez",
+        "posicion":"MedioCampo",
+        "edad":"32",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"15",
+        "nombre":"Tomas Belmonte",
+        "posicion":"MedioCampo",
+        "edad":"26",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"15",
+        "nombre":"Cristian Medina",
+        "posicion":"MedioCampo",
+        "edad":"22",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"16",
+        "nombre":"Ezequiel Fernandez",
+        "posicion":"MedioCampo",
+        "edad":"21",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"17",
+        "nombre":"Mauricio Benitez",
+        "posicion":"MedioCampo",
+        "edad":"20",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"18",
+        "nombre":"Jabes Saralegui",
+        "posicion":"MedioCampo",
+        "edad":"21",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"19",
+        "nombre":"Julian Ceballos",
+        "posicion":"MedioCampo",
+        "edad":"19",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"20",
+        "nombre":"Milton Delgado",
+        "posicion":"MedioCampo",
+        "edad":"19",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"21",
+        "nombre":"Santiago Dalmasso",
+        "posicion":"MedioCampo",
+        "edad":"20",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"22",
+        "nombre":"Edinson Cavani",
+        "posicion":"Delantero",
+        "edad":"37",
+        "nacionalidad":"Uruguayo"
+    },
+    {
+        "id":"23",
+        "nombre":"Lucas Janson",
+        "posicion":"Delantero",
+        "edad":"29",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"24",
+        "nombre":"Norberto Briasco",
+        "posicion":"Delantero",
+        "edad":"28",
+        "nacionalidad":"Armenio"
+    },
+    {
+        "id":"25",
+        "nombre":"Miguel Merentiel",
+        "posicion":"Delantero",
+        "edad":"28",
+        "nacionalidad":"Uruguayo"
+    },
+    {
+        "id":"26",
+        "nombre":"Exequiel Zeballos",
+        "posicion":"Delantero",
+        "edad":"22",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"27",
+        "nombre":"Brian Aguirre",
+        "posicion":"Delantero",
+        "edad":"21",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"28",
+        "nombre":"Kevin Zenon",
+        "posicion":"Delantero",
+        "edad":"22",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"29",
+        "nombre":"Milton Gimenez",
+        "posicion":"Delantero",
+        "edad":"27",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"30",
+        "nombre":"Luca Langoni",
+        "posicion":"Delantero",
+        "edad":"22",
+        "nacionalidad":"Argentino"
+    },
+    {
+        "id":"31",
+        "nombre":"Diego Martinez",
+        "posicion":"Director Tecnico",
+        "edad":"45",
+        "nacionalidad":"Argentino"
+    }
+]
